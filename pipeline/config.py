@@ -1,0 +1,8 @@
+import os
+
+GOOGLE_MAPS_API_KEY = os.getenv("GOOGLE_MAPS_API_KEY")
+
+ZOOM = 20
+IMG_SIZE = 640
+SCALE = 2
+CONF_THRESH = 0.25
